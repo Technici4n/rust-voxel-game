@@ -1,7 +1,7 @@
 # Mod loading
 Just like Minetest, the engine itself should not provide any game content, but rather convenience and compatibility interfaces.
 
-Different mod loading strategies are possible. I've listed the pros and cons of every one. I only wrote what came to my mind. As suck, there may be others and I might be wrong. I'll be happy to talk about it.
+Different mod loading strategies are possible, and only one will be retained. I've listed the pros and cons of every one. I only wrote what came to my mind. As suck, there may be others and I might be wrong. I'll be happy to talk about it.
 
 The server could send the client information about native mods, or the mods' scripts directly.
 
@@ -39,3 +39,5 @@ A binary could be built using a specific of mods in the form of Rust modules. A 
 * Safety on the host system.
 * Harder installation (requires rust on the user's system) or fewer configuration.
 * Linking time in development cycles (could be solved with `prefer-dynamic`)
+
+Personally I'd prefer the third solution for ease of development. It could allow the first and the second anyways.
