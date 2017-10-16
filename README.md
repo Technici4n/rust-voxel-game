@@ -30,6 +30,7 @@ Feel free to suggest any improvement, of the ideas or of sections the document i
 ## Short-term priorities
 * Finding a name for the game (ideas are welcome)
 * Implementing chunk rendering and basic generation (flat world).
+* Publish the source code on Github.
 * Implementing a basic GUI.
 * Implementing basic networking.
 * Block placing and breaking.
