@@ -1,7 +1,9 @@
 # Rust Voxel Game Project
 This is the description of a project to create a full, moddable, yet free and open source, voxel game in Rust.
 
-Little has been done, and I don't expect anyone to contribute to this project for now. I would just like to hear input on my ideas in order to find better solutions that I couldn't have thought of myself.
+~~Little has been done, and I don't expect anyone to contribute to this project for now. I would just like to hear input on my ideas in order to find better solutions that I couldn't have thought of myself.~~
+
+Have a look at https://github.com/Technici4n/crowl.
 
 Feel free to suggest any improvement, of the ideas or of sections the document itself (like spelling mistakes).
 
@@ -28,8 +30,7 @@ Feel free to suggest any improvement, of the ideas or of sections the document i
 * [Mod loading (input asked)](mods.md)
 
 ## Short-term priorities
-* Implementing chunk rendering and basic generation (flat world).
-* Publish the source code on Github.
-* Implementing a basic GUI.
 * Implementing basic networking.
 * Block placing and breaking.
+* Implementing a basic GUI.
+* Integrating a scripting engine.
