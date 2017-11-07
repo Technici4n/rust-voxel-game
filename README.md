@@ -3,7 +3,7 @@ This is the description of a project to create a full, moddable, yet free and op
 
 ~~Little has been done, and I don't expect anyone to contribute to this project for now. I would just like to hear input on my ideas in order to find better solutions that I couldn't have thought of myself.~~
 
-Have a look at https://github.com/Technici4n/crowl.
+Have a look at https://github.com/voxel-rs/voxel-rs.
 
 Feel free to suggest any improvement, of the ideas or of sections the document itself (like spelling mistakes).
 
